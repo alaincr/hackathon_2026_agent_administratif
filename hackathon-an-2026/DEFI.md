@@ -74,8 +74,11 @@ Cochez les ressources utilisées en remplaçant `[ ]` par `[x]`.
 - [Document 2](hackathon-an-2026/docs/document-2.pdf)
 
 ### URL de démonstration
-<!-- à compléter : URL publique de démonstration (l'application fonctionne aussi 100 % en local) -->
-https://votre-application.example.com
+https://alcrawfo-agent-administratif.static.hf.space
+
+<!-- Page du Space (fiche, README) : https://huggingface.co/spaces/alcrawfo/agent-administratif -->
+<!-- L'assistant IA nécessite WebGPU (Chrome/Edge récents) ; recherche, dictée et déroulé des démarches fonctionnent sans. L'app fonctionne aussi 100 % en local. -->
+
 
 ### Diapositives de présentation
 [Diapositives de présentation](docs/diapositives.pdf)
