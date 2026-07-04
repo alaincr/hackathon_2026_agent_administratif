@@ -66,8 +66,9 @@ Cochez les ressources utilisées en remplaçant `[ ]` par `[x]`.
 <!-- Note : ce projet s'appuie sur les fiches « Vos droits » de service-public.fr (DILA, Licence Ouverte 2.0). Si vous avez utilisé la base/API/MCP unifiée « Service Public », cochez la ou les entrées `an-et-co-…-regroupement-toutes-donnees` correspondantes. -->
 
 ### Galerie
-- [Image 1](images/image-1.png)
-- [Image 2](images/image-2.png)
+- ![Reformulation active : la recherche « appendicite » propose des démarches précises à valider](images/image-1.png)
+- ![Fiche d'une démarche : explication par l'assistant local, lecture vocale et déroulé pas à pas](images/image-2.png)
+- ![Application native sur iPhone (simulateur) : écran d'accueil, 2 908 fiches disponibles en hors-ligne](images/simulateur-iphone.png)
 
 ### Documents
 - [Tableur 1](hackathon-an-2026/docs/Classeur1.xlsx)
