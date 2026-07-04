@@ -66,7 +66,7 @@ Cochez les ressources utilisées en remplaçant `[ ]` par `[x]`.
 <!-- Note : ce projet s'appuie sur les fiches « Vos droits » de service-public.fr (DILA, Licence Ouverte 2.0). Si vous avez utilisé la base/API/MCP unifiée « Service Public », cochez la ou les entrées `an-et-co-…-regroupement-toutes-donnees` correspondantes. -->
 
 ### Galerie
-- ![Diapositive 1 — Vos démarches, comprises et préparées sur iPhone (2 908 fiches, 100 % local et hors-ligne)](images/slide-1.png)
+- ![Diapositive 1 — Vos démarches, comprises et préparées sur votre smartphone (2 908 fiches, 100 % local et hors-ligne)](images/slide-1.png)
 - ![Diapositive 2 — Comprendre l'intention : recherche hybride (BM25 + e5) et reformulation active](images/slide-2.png)
 - ![Diapositive 3 — Préparer sa démarche : assistant local, déroulé pas à pas, tout reste sur l'appareil](images/slide-3.png)
 - ![Reformulation active : la recherche « appendicite » propose des démarches précises à valider](images/image-1.png)
